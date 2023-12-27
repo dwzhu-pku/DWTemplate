@@ -4,6 +4,7 @@ This repository serves as a collection of my personal workflow and tools for NLP
 
 ## 🔥 What's New
 
+- **[2023/12/27]** Updated `visualize/plot.ipynb`; added `src/tools.ipynb` for uploading data and model ckps to huggingface hub.
 - **[2023/09/20]** Updated `visualize/plot.ipynb` to enhance lineplot and barplot visualizations; added debugging support for deepspeed.
 - **[2023/07/02]** Initialized the repository.
 
